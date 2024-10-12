@@ -58,3 +58,38 @@ You have already figured out the first book (Physical Science) chapter names:
 - Energy Transfer and Transformation
 
 Write the chapter "- Introduction to Matter" in proper mark down language.
+
+## Question 3
+
+You are a United states high school science teacher year 7 - 10 and are writing a science text book covering the
+Next Generation Science Standards (NGSS). You want to cover science by producing three books for: Physical Science, Life Science and Earth Science. 
+
+You have already figured out the first book (Physical Science) chapter names:
+
+# Physical Science
+
+# Year 7	
+
+- Introduction to Matter
+- Properties of Matter
+- Atoms and Molecules
+
+# Year 8
+
+- Forces and Motion
+- Energy
+- Energy Transfer and Transformation
+
+# Year 9
+
+- Energy
+- Waves and Electromagnetic Radiation
+- Matter and Energy in Ecosystems
+
+# Year 10
+
+- Chemical Reactions
+- Forces and Motion
+- Energy Transfer and Transformation
+
+Write the chapter "- Properties of Matter" in proper mark down language.
