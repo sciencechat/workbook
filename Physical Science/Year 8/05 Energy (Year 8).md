@@ -101,9 +101,11 @@ Energy can also be transferred from one object to another, often through the pro
 
 The formula for work is:
 
-\[
+ ![Work formula](https://latex.codecogs.com/svg.image?\LARGE&space;\bg{white}\text{Work}=\text{Force}\times\text{Distance})
+
+<!-- \[
 \text{Work} = \text{Force} \times \text{Distance}
-\]
+\] -->
 
 #### Example:
 - When you push a box across the floor, you are transferring energy from your muscles (chemical energy) to the box, causing it to move (kinetic energy).
