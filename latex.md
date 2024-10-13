@@ -33,3 +33,30 @@ While this doesn't look as polished as LaTeX, it works in GitHub Markdown.
 If you're hosting your markdown on a GitHub Pages site (or using it in a Jupyter Notebook), you can use KaTeX or MathJax for full LaTeX rendering by adding the necessary libraries to your HTML.
 
 For standard markdown in repositories, the image option is the most practical.
+
+The easiest way to create an image of the formula:
+
+\[
+\text{Work} = \text{Force} \times \text{Distance}
+\]
+
+is to use a LaTeX-to-image generator. One popular and simple tool for this is [Codecogs](https://www.codecogs.com/latex/eqneditor.php), which allows you to enter LaTeX code and generate a downloadable image of the formula.
+
+### Steps to create the image:
+
+1. Go to [Codecogs Equation Editor](https://www.codecogs.com/latex/eqneditor.php).
+2. Enter the following LaTeX code into the editor:
+   ```latex
+   \text{Work} = \text{Force} \times \text{Distance}
+   ```
+3. The image will be generated automatically as you type.
+4. Right-click on the image and select "Save image as..." to download it.
+5. You can then insert the image into your markdown document using the following syntax:
+   ```markdown
+   ![Work formula](path-to-your-saved-image)
+   ```
+
+This will create and insert an image of the formula for you to use in your textbook or online materials.
+
+https://latex.codecogs.com/svg.image?\LARGE&space;\bg{white}\text{Work}=\text{Force}\times\text{Distance}
+
