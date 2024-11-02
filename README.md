@@ -237,7 +237,7 @@ Next Generation Science Standards (NGSS). You want to cover science by producing
 
 You have already figured out the first book (Physical Science) chapter names:
 
-# Physical Science
+
 
 # Year 7	
 
